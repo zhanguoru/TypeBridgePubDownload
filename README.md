@@ -43,9 +43,11 @@ TypeBridge 可以让你：
 - 电脑端主界面
   
 <img width="345" height="609" alt="image" src="https://github.com/user-attachments/assets/08ff1ec4-7a78-422a-9769-6b088e64c7cb" /> 
+
 - 手机输入页面(手机扫码进入)
   
 <img width="337" height="567" alt="image" src="https://github.com/user-attachments/assets/f7c818f6-e16d-4e09-9704-06f51062f44c" />
+
 - 文字输入页面
 
 <img width="344" height="607" alt="image" src="https://github.com/user-attachments/assets/8c764727-f171-4c51-8c94-2cc1db47d7e4" />
