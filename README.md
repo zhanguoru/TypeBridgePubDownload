@@ -1,7 +1,5 @@
 # TypeBridge
 
-# TypeBridge
-
 Phone to PC wireless input tool.
 
 - Input text on phone
