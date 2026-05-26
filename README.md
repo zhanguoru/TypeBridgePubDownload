@@ -40,10 +40,16 @@ TypeBridge 可以让你：
 # 软件截图
 <img width="764" height="327" alt="image" src="https://github.com/user-attachments/assets/866eab7d-821a-4f44-a3ac-5b4f0ce94e56" />
 
+- 电脑端主界面
+  
+<img width="345" height="609" alt="image" src="https://github.com/user-attachments/assets/08ff1ec4-7a78-422a-9769-6b088e64c7cb" /> 
+- 手机输入页面(手机扫码进入)
+  
+<img width="337" height="567" alt="image" src="https://github.com/user-attachments/assets/f7c818f6-e16d-4e09-9704-06f51062f44c" />
+- 文字输入页面
 
-- 主界面
-- 手机输入页面
-- 二维码连接
+<img width="344" height="607" alt="image" src="https://github.com/user-attachments/assets/8c764727-f171-4c51-8c94-2cc1db47d7e4" />
+
 - PPT 遥控页面
 
 ---
@@ -67,6 +73,7 @@ TypeBridge.exe
 第一步
 
 打开电脑端 TypeBridge。
+首次使用需要激活,激活码在本文最下面。
 
 第二步
 
@@ -194,6 +201,7 @@ Cloudflare Tunnel
 防火墙是否拦截
 是否开启代理 / VPN
 为什么偶尔会丢消息？
+后续会专门处理一个网络检测工具。
 
 当前版本仍在持续优化：
 
@@ -228,3 +236,8 @@ Commercial license required for business usage.
 作者
 
 TypeBridge Project
+
+激活码：TypeBridge-OFF-20260526-27A55ACA
+目前有效期设置的比较短,但是不用担心,作者自己也在用，一般到期24小时左右,作者就会重新设置时间,用户只需要点 重新激活授权 即可以。
+
+
