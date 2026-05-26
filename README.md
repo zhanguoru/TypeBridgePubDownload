@@ -38,8 +38,8 @@ TypeBridge 可以让你：
 ---
 
 # 软件截图
+<img width="764" height="327" alt="image" src="https://github.com/user-attachments/assets/866eab7d-821a-4f44-a3ac-5b4f0ce94e56" />
 
-（这里放截图）
 
 - 主界面
 - 手机输入页面
